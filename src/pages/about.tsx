@@ -15,7 +15,7 @@ export default function About() {
           <div className="hidden md:flex items-center space-x-8">
             <a href="/" className="text-gray-600 hover:text-orange-500 transition-colors">Home</a>
             <a href="/privacy" className="text-gray-600 hover:text-orange-500 transition-colors">Privacy</a>
-            <a href="#download" className="px-6 py-2.5 bg-orange-500 text-white rounded-full hover:bg-orange-600 transition-all hover:shadow-lg">
+            <a href="/#download" className="px-6 py-2.5 bg-orange-500 text-white rounded-full hover:bg-orange-600 transition-all hover:shadow-lg">
               Download
             </a>
           </div>

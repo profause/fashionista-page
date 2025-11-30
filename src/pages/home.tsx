@@ -14,7 +14,7 @@ export default function Home() {
           </div>
           <div className="hidden md:flex items-center space-x-8">
             <a href="#features" className="text-gray-600 hover:text-orange-500 transition-colors">Features</a>
-            <a href="#about" className="text-gray-600 hover:text-orange-500 transition-colors">About</a>
+            <a href="/about" className="text-gray-600 hover:text-orange-500 transition-colors">About</a>
             <a href="#download" className="px-6 py-2.5 bg-orange-500 text-white rounded-full hover:bg-orange-600 transition-all hover:shadow-lg">
               Download
             </a>
