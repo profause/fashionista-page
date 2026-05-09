@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.profause.fashionista.android",
+      "sha256_cert_fingerprints": [
+        "8F:BE:32:6B:E5:C9:2D:71:B1:48:32:66:38:66:11:C1:0B:41:03:47:F3:2E:C2:4B:6C:3B:08:4C:D9:73:3E:E8"
+      ]
+    }
+  }
+]
