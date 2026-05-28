@@ -41,10 +41,10 @@ export default function Home() {
                   <Download className="w-5 h-5" />
                   <span className="font-semibold">App Store</span>
                 </button>
-                <button className="flex items-center justify-center space-x-2 px-8 py-4 bg-orange-500 text-white rounded-full hover:bg-orange-600 transition-all hover:shadow-xl">
+                <a href="https://play.google.com/store/apps/details?id=com.profause.fashionista.android" className="flex items-center justify-center space-x-2 px-8 py-4 bg-orange-500 text-white rounded-full hover:bg-orange-600 transition-all hover:shadow-xl">
                   <Download className="w-5 h-5" />
                   <span className="font-semibold">Google Play</span>
-                </button>
+                </a>
               </div>
             </div>
 
@@ -203,10 +203,10 @@ export default function Home() {
               <Smartphone className="w-5 h-5" />
               <span>Download for iOS</span>
             </button>
-            <button className="flex items-center justify-center space-x-2 px-8 py-4 bg-gray-900 text-white rounded-full hover:bg-gray-800 transition-all hover:shadow-xl font-semibold">
+            <a href="https://play.google.com/store/apps/details?id=com.profause.fashionista.android" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center space-x-2 px-8 py-4 bg-gray-900 text-white rounded-full hover:bg-gray-800 transition-all hover:shadow-xl font-semibold">
               <Smartphone className="w-5 h-5" />
               <span>Download for Android</span>
-            </button>
+            </a>
           </div>
         </div>
       </section>

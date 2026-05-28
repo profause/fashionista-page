@@ -102,10 +102,10 @@ export default function About() {
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Ready to Elevate Your Style?</h2>
           <p className="text-xl text-gray-600 mb-8">Join thousands of fashion enthusiasts who trust Fashionista for their daily style inspiration.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <button className="flex items-center justify-center space-x-2 px-8 py-4 bg-gray-900 text-white rounded-full hover:bg-gray-800 transition-all hover:shadow-xl">
+            <a href="https://play.google.com/store/apps/details?id=com.profause.fashionista.android" className="flex items-center justify-center space-x-2 px-8 py-4 bg-gray-900 text-white rounded-full hover:bg-gray-800 transition-all hover:shadow-xl">
               <Smartphone className="w-5 h-5" />
               <span className="font-semibold">Download the App</span>
-            </button>
+            </a>
           </div>
         </div>
       </section>
