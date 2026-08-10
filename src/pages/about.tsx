@@ -73,7 +73,7 @@ export default function About() {
                   </div>
                   <div>
                     <h3 className="font-bold text-lg">1M+</h3>
-                    <p className="text-gray-500">Active Users</p>
+                    <p className="text-gray-500">Total Users</p>
                   </div>
                 </div>
                 <div className="space-y-4">
